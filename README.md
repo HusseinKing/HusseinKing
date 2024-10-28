@@ -23,11 +23,7 @@
 
 <section class="about">
   <p>
-    I'm a Software Engineer with over four years of experience building efficient, scalable web applications. My expertise ranges from front-end frameworks like React and Next.js to back-end development with Node.js. I am passionate about clean, maintainable code and creating seamless user experiences.
-  </p>
-  
-  <p>
-    Recently, I led projects that improved system performance by 30% and significantly reduced load times. I stay updated on industry trends and enjoy sharing insights through tech blogs and open-source contributions.
+   I am a full-stack software engineer and writer. I love programming, reading, writing and speaking. As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
   </p>
 </section>
 
